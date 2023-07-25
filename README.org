@@ -1,0 +1,10 @@
+* cl-intbytes
+
+Encode/decode any-base integers and byte arrays interchangeably.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/EuAndreh/cl-intbytes.git   |
+| commit  | a195e99  |
+| systems | cl-intbytes |
+|---------+-------------------------------------------|
+
